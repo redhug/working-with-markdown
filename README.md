@@ -27,9 +27,9 @@ You can edit README.md online by clicking on the file name and then the pencil i
 
 If you use VS Code, the following extensions may be helpful:
 
-68 "Auto-Open Markdown Preview"
-68 "Markdown Preview Enhanced"
-68 "markdownlint" (recommended)
+&#9658 "Auto-Open Markdown Preview"
+&#9658 "Markdown Preview Enhanced"
+&#9658 "markdownlint" (recommended)
 
 ## Title and Section Headings
 
