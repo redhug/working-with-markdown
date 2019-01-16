@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](C:\Users\s534625\Downloads\Sample-image10-highres.jpg "Lynx Kitten")
+![Hosted image](http://www.tompetty.com/sites/g/files/g2000007521/f/sample001.jpg "Lynx Kitten")
 
 ## Paragraphs
 
